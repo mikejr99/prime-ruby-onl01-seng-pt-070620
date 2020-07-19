@@ -1,1 +1,4 @@
-def priem
+def prime? (num)
+  
+  
+end
